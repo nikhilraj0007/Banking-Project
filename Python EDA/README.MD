@@ -73,6 +73,7 @@ The notebook performs step-by-step analysis on customer-level loan and deposit d
 ![Histogram](/EDA%20Images/histograms.png)
 
 - Boxplot: Income Band vs. Bank Deposit
+![Boxplot](/EDA%20Images/boxplot.png)
 
 
 - Heatmap: Correlation matrix  
