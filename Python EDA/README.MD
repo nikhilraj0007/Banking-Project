@@ -72,7 +72,7 @@ The notebook performs step-by-step analysis on customer-level loan and deposit d
 - Histogram of Total Loan Amounts 
 ![Histogram](/EDA%20Images/histograms.png)
 
-### 📊 Boxplot: Income Band vs. Bank Deposit
+- Boxplot: Income Band vs. Bank Deposit 
 
 <img src="/EDA Images/boxplot.png" alt="Boxplot" width="600" height="400">
 
